@@ -1,0 +1,33 @@
+{
+  "name": "lucid-coffee",
+  "version": "1.0.0",
+  "description": "starter website for Lucid Coffee Co.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/julian-castro1/lucid-coffee.git"
+  },
+  "author": "Julian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julian-castro1/lucid-coffee/issues"
+  },
+  "homepage": "https://github.com/julian-castro1/lucid-coffee#readme",
+  "devDependencies": {
+    "css-loader": "^6.8.1",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.5.3",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  },
+  "dependencies": {
+    "material-design-icons": "^3.0.1"
+  }
+}

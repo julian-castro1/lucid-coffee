@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklucid_coffee=self.webpackChunklucid_coffee||[]).push([[666],{666:(e,c,f)=>{function u(){}f.r(c),f.d(c,{default:()=>u})}}]);
